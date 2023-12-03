@@ -1,0 +1,2 @@
+"""Straw's Photo Cataloguer"""
+
